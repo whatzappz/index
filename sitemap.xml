@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://squidfunk.github.io/mkdocs-material/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/wa/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/aselfi/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/clebaran/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/fdiwarung/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/metadata/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/pvideo/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/pymdown/</loc>
-     <lastmod>2020-09-26</lastmod>
+     <lastmod>2020-10-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
